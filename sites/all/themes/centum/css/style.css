@@ -703,12 +703,12 @@ html[xmlns] .slides {display: block;}
 /* =================================================================== */
 /* Footer
 ====================================================================== */
-#footer, #footer p, #footer a{color: #D1E0FF;}
+#footer, #footer p, #footer a{color: #aaa}
 #footer a:hover {color: #fff;}
 
 .footer-headline {
 	background: url(../images/headline-footer-bg.png) 0 50% repeat-x;
-	display: inline;
+	display: block;
 	margin: 15px 0 8px 0;
 }
 
@@ -718,7 +718,7 @@ html[xmlns] .slides {display: block;}
 	background-color: #303030;
 	display: inline;
 	padding: 0 10px 0 0;
-	color:#FFFFFF;
+	color: #fff;
 }
 
 /* Links List
