@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/centum/sites/all/libraries/ckeditor/';
